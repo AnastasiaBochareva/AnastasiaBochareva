@@ -1,16 +1,21 @@
-## Hi there 👋
+## Обо мне  
 
-<!--
-**AnastasiaBochareva/AnastasiaBochareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="photo" src="photo.png" width="150" align="right">
 
-Here are some ideas to get you started:
+Меня зовут Анастасия, мне 27 лет, и сейчас я ищу работу. Хочу немного рассказать о себе и своем опыте.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Методист и автор баз знаний:** 3500+ часов корпоративного обучения, 80+ инструкций и регламентов в базах знаний. Перевожу сложные процессы в понятные документы и обучающие материалы.
+<br />
+<br />
+
+## Инструменты
+WordPress, Outline, ПланФикс, Confluence, Markdown, Microsoft Office, YandexGPT
+
+## Навыки
+- Разработка пользовательской документации, инструкций и регламентов.
+- Разработка и запуск программ адаптации. Проведение вебинаров, тренингов и презентаций продукта.
+- CustDev: разработка сценария, проведение и анализ интервью.
+- ИИ-инструменты: генерация черновиков, редактирование текстов, структурирование информации.
+
+## Контакты
+bocharevaav@gmail.com
