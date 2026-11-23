@@ -36,7 +36,7 @@
 
 
 ## Регистрация в приложении Мой Налог
-<img alt="Алгоритм регистрации и работы в качестве самозанятого" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/вертикальная%20диаграмма.drawio.svg" width="400" align="right">
+<img alt="Алгоритм регистрации и работы в качестве самозанятого" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/вертикальная%20диаграмма.drawio.svg" width="400" align="right">
 
 Процесс регистрации в качестве самозанятого осуществляется одним из следующих способов:
 - через **мобильное приложение ФНС России «Мой налог»**;
@@ -57,7 +57,7 @@
 <br />
 <br />
 
-<img alt="Добро пожаловать" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/2%20добро%20пожаловать.jpg" width="300" align="left"><img alt="Согласие" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/3%20согласие.jpg" width="300" align="center"><img alt="Стать самозанятым" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/4%20регистрация.jpg" width="300" align="right">
+<img alt="Добро пожаловать" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/2%20добро%20пожаловать.jpg" width="300" align="left"><img alt="Согласие" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/3%20согласие.jpg" width="300" align="center"><img alt="Стать самозанятым" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/4%20регистрация.jpg" width="300" align="right">
 
 <br />
 
@@ -66,13 +66,13 @@
 <br />
 <br />
 
-<img alt="Способ авторизации" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/5%20авторизация.jpg" width="300" align="left"><img alt="Авторизуйтесь на портале Госуслуг" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/6%20авторизация%20чз%20госуслуги.jpg" width="300" align="center"><img alt="Пин-код" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/11%20пин-код.jpg" width="300" align="right">
+<img alt="Способ авторизации" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/5%20авторизация.jpg" width="300" align="left"><img alt="Авторизуйтесь на портале Госуслуг" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/6%20авторизация%20чз%20госуслуги.jpg" width="300" align="center"><img alt="Пин-код" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/11%20пин-код.jpg" width="300" align="right">
 
 
 Ваше заявление на регистрацию в качестве плательщика НПД принято в работу. Срок обработки заявления **до 5 рабочих дней.** На практике — быстрее, от нескольких минут до нескольких часов.
 <br />
 <br />
-<img alt="Заявление принято" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/9%20заявление%20принято.jpg" width="300" align="left"><img alt="Заявление обработано" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/10%20заявление%20обработано.jpg" width="300" align="left">
+<img alt="Заявление принято" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/9%20заявление%20принято.jpg" width="300" align="left"><img alt="Заявление обработано" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/10%20заявление%20обработано.jpg" width="300" align="left">
 <br />
 <br />
 <br />
@@ -114,7 +114,7 @@
 4. Введите реквизиты — **БИК и номер счёта** — их можно взять в приложении вашего банка.
 5. Нажмите **Сохранить.**
 
-<img alt="Прочее - Платежи" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/прочее%20платежи.jpg" width="300" align="left"><img alt="По расчетному счету" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/111%20способ%20приема%20платежей.jpg" width="300" align="center"><img alt="Указать БИК банка и номер счета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/112%20реквизиты%20для%20приема%20платежей.jpg" width="300" align="right">
+<img alt="Прочее - Платежи" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/прочее%20платежи.jpg" width="300" align="left"><img alt="По расчетному счету" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/111%20способ%20приема%20платежей.jpg" width="300" align="center"><img alt="Указать БИК банка и номер счета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/112%20реквизиты%20для%20приема%20платежей.jpg" width="300" align="right">
 
 
 ### Как выставить счёт клиенту
@@ -124,7 +124,7 @@
 4. Если выбрали Юридическое лицо или ИП, введите **ИНН компании** и нажмите **Найти** — система подтянет название организации.
 5. Нажмите **Выдать счёт.**
 
-<img alt="Продажа" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/113%20главный%20экран%20-%20продажа.jpg" width="300" align="left"><img alt="Кому выставляем счет" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/114%20выставление%20счета.jpg" width="300" align="center"><img alt="Введите ИНН юр лица" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/115%20выставление%20счета.jpg" width="300" align="right">
+<img alt="Продажа" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/113%20главный%20экран%20-%20продажа.jpg" width="300" align="left"><img alt="Кому выставляем счет" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/114%20выставление%20счета.jpg" width="300" align="center"><img alt="Введите ИНН юр лица" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/115%20выставление%20счета.jpg" width="300" align="right">
 
 ### Как отправить ссылку на счёт
 
@@ -132,7 +132,7 @@
 2. Нажмите на **три точки** внизу посередине и выберите **Отправить ссылку на счёт.**
 3. Скопируйте ссылку и отправьте клиенту (например, в мессенджер или на почту).
 
-<img alt="Чеки/Счета - Счета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/116%20отправка%20счета.jpg" width="300" align="left"><img alt="Отправить ссылку на счет" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/117%20отправка%20счета.jpg" width="300" align="center"><img alt="Скопировать ссылку" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/118%20отправка%20счета.jpg" width="300" align="right">
+<img alt="Чеки/Счета - Счета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/116%20отправка%20счета.jpg" width="300" align="left"><img alt="Отправить ссылку на счет" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/117%20отправка%20счета.jpg" width="300" align="center"><img alt="Скопировать ссылку" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/118%20отправка%20счета.jpg" width="300" align="right">
 
 
 ### Как оформить чек после оплаты
@@ -143,12 +143,12 @@
 3. Чтобы **отправить чек,** перейдите в **Чеки/Счета** → **Чеки,** откройте чек и нажмите **Отправить.**
 4. Выберите **Отправить ссылку на чек,** скопируйте её и перешлите клиенту.
 
-<img alt="Сформировать чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/122%20отметить%20оплаченным.jpg" width="300" align="left"><img alt="Чеки/счета - Чеки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/119%20отправка%20чека.jpg" width="300" align="center"><img alt="Отправить ссылку на чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/120%20отправка%20чека.jpg" width="300" align="right">
+<img alt="Сформировать чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/122%20отметить%20оплаченным.jpg" width="300" align="left"><img alt="Чеки/счета - Чеки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/119%20отправка%20чека.jpg" width="300" align="center"><img alt="Отправить ссылку на чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/120%20отправка%20чека.jpg" width="300" align="right">
 
 
 ### Как оплатить налог
 
-<img alt="Оплата налога" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/оплата%20налога.jpg" width="300" align="right">
+<img alt="Оплата налога" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/оплата%20налога.jpg" width="300" align="right">
 
 Налог рассчитывается автоматически до 12 числа месяца, следующим за месяцем ведения деятельности. **Первый расчет налога осуществляется за 2 первых месяца работы в качестве самозанятого.** 
 
@@ -186,7 +186,7 @@
 3. Выберите **год.**
 4. Выберите **приложение,** для открытия справки.
 
-<img alt="Справки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Справки.jpg" width="300" align="left"><img alt="Тип справки и год" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/справки%203.jpg" width="300" align="center"><img alt="Пример справки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/пример%20справки.jpg" width="300" align="right">
+<img alt="Справки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/Справки.jpg" width="300" align="left"><img alt="Тип справки и год" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/справки%203.jpg" width="300" align="center"><img alt="Пример справки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/пример%20справки.jpg" width="300" align="right">
 
 ### Как сняться с учета
 Если вы больше не хотите быть налогоплательщиком налога на профессиональный доход, вы можете **в любой момент сняться с учета.** К примеру, в компании действует строгая политика о наличии ИП или самозанятости. 
@@ -196,7 +196,7 @@
 2. Нажмите кнопку **Сняться с учета.**
 3. **Укажите причину** снятия с учета.
 
-<img alt="Профиль" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Профиль1.jpg" width="300" align="left"><img alt="Сняться с учета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/7%20снятие%20с%20учета.jpg" width="300" align="center"><img alt="Выбрать причину" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/8%20снятие%20с%20учета.jpg" width="300" align="right">
+<img alt="Профиль" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/Профиль1.jpg" width="300" align="left"><img alt="Сняться с учета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/7%20снятие%20с%20учета.jpg" width="300" align="center"><img alt="Выбрать причину" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/main/Case1/screen/8%20снятие%20с%20учета.jpg" width="300" align="right">
 
 Больше ничего делать не нужно. При этом необходимо оплатить налоги, которые вам начислили за период работы. Если сняться с учета, **начисленный налог все равно необходимо уплатить.**
 
