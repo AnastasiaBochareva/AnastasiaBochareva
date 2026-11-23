@@ -141,7 +141,7 @@
 3. Чтобы **отправить чек,** перейдите в **Чеки/Счета** → **Чеки,** откройте чек и нажмите **Отправить.**
 4. Выберите **Отправить ссылку на чек,** скопируйте её и перешлите клиенту.
 
-<img alt="Сформировать чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок10.jpg" width="300" align="left"><img alt="Чеки/счета - Чеки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/119%20отправка%20чека.jpg" width="300" align="center"><img alt="Отправить ссылку на чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/120%20отправка%20чека.jpg" width="300" align="right">
+<img alt="Сформировать чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/122%20отметить%20оплаченным.jpg" width="300" align="left"><img alt="Чеки/счета - Чеки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/119%20отправка%20чека.jpg" width="300" align="center"><img alt="Отправить ссылку на чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/120%20отправка%20чека.jpg" width="300" align="right">
 
 
 ### Как оплатить налог
