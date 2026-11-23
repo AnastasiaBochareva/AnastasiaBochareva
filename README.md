@@ -17,5 +17,12 @@ WordPress, Outline, ПланФикс, Confluence, Markdown, Microsoft Office, Ya
 - CustDev: разработка сценария, проведение и анализ интервью.
 - ИИ-инструменты: генерация черновиков, редактирование текстов, структурирование информации.
 
+## Кейсы
+1. Инструкция по регистрации самозанятости и работе в [приложении Мой налог](Case1/Moi-Nalog.md).
+2. Инструкции в Базе Знаний Мой Кассир:
+   - описание работы с модулем для [продажи пива](https://help.moykassir.ru/category/egais/)
+   - экран клиента — решение для [повышения среднего чека](https://help.moykassir.ru/buyers_screen/)
+   - интеграция с сервисом [webkassa](https://help.moykassir.ru/integration-webkassa/)
+
 ## Контакты
 bocharevaav@gmail.com
