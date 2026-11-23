@@ -58,7 +58,9 @@
 <img alt="Добро пожаловать" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/2%20добро%20пожаловать.jpg" width="300" align="left"><img alt="Согласие" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/3%20согласие.jpg" width="300" align="center"><img alt="Стать самозанятым" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/4%20регистрация.jpg" width="300" align="right">
 
 <br />
+
 Выберите способ авторизации __Через портал Госуслуг__. Вы будете направлены на окно ввода __логина и пароля для портала Госуслуг__. После авторизации на портале, вы вернетесь в приложение Мой Налог, и вам будет предложено установить __пин-код__ для входа.
+
 <br />
 <br />
 
