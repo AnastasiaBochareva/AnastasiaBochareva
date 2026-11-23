@@ -164,19 +164,41 @@
 В случае, если сумма налога составляет менее 100 рублей, налог не начисляется и переносится на следующий месяц. После начисления налога направляется дополнительное уведомление. Можно подключить функцию автоплатежа, чтобы не пропустить срок уплаты.
 Когда налог будет рассчитан, вам придет уведомление в приложении Мой Налог. На главном экране отобразится сумма к оплате. Можно оплатить банковской картой или по квитанции.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 ### Как сформировать справку
+Налогоплательщики налога на профессиональный доход могут **подтверждать свои доходы** при получении кредита оформлении пособий и в других случаях. В приложении формируются две справки: **о регистрации в качестве самозанятого и доходах за любой период.** Справку можно отправить на электронную почту. 
 
+Кроме справки о постановке на учет, регистрацию можно также проверить с помощью специального сервиса по адресу https://npd.nalog.ru/check-status/. 
 
+**Для формирования справки:**
+1. Перейдите в раздел **Прочее → Справки.**
+2. Выберите необходимую справку — **О постановке на учет или О доходах.**
+3. Выберите **год.**
+4. Выберите **приложение,** для открытия справки.
+
+<img alt="Справки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Справки.jpg" width="300" align="left"><img alt="Тип справки и год" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/справки%203.jpg" width="300" align="center"><img alt="Пример справки" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/пример%20справки.jpg" width="300" align="right">
 
 ### Как сняться с учета
 Если вы больше не хотите быть налогоплательщиком налога на профессиональный доход, вы можете **в любой момент сняться с учета.** К примеру, в компании действует строгая политика о наличии ИП или самозанятости. 
 
 **Для снятия с учета:**
-1. Перейдите в раздел **Профиль.**
+1. Перейдите в раздел **Прочее → Профиль.**
 2. Нажмите кнопку **Сняться с учета.**
 3. **Укажите причину** снятия с учета.
 
-<img alt="Профиль" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Профиль.jpg" width="300" align="left"><img alt="Сняться с учета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/7%20снятие%20с%20учета.jpg" width="300" align="center"><img alt="Выбрать причину" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/8%20снятие%20с%20учета.jpg" width="300" align="right">
+<img alt="Профиль" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Профиль1.jpg" width="300" align="left"><img alt="Сняться с учета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/7%20снятие%20с%20учета.jpg" width="300" align="center"><img alt="Выбрать причину" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/8%20снятие%20с%20учета.jpg" width="300" align="right">
 
 Больше ничего делать не нужно. При этом необходимо оплатить налоги, которые вам начислили за период работы. Если сняться с учета, **начисленный налог все равно необходимо уплатить.**
 
