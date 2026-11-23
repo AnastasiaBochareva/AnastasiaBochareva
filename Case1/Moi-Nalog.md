@@ -1,6 +1,6 @@
 # Регистрация в качестве самозанятого и работа в приложении «Мой Налог»
 > [!IMPORTANT]
-> Если вы оказываете услуги (фриланс, репетиторство, сдача жилья и т. п.), оформите самозанятость. Так вы будете работать официально: клиенты смогут с вами сотрудничать без рисков, а у налоговой не возникнет вопросов.
+> Если вы оказываете услуги (например, фриланс, репетиторство, сдача жилья), оформите самозанятость. Так вы будете работать официально: клиенты смогут с вами сотрудничать без рисков, а у налоговой не возникнет вопросов.
 
 ## Оглавление
 1. Что дает статус самозанятого
@@ -71,55 +71,88 @@
 <img alt="Добро пожаловать" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/2%20добро%20пожаловать.jpg" width="300" align="left"><img alt="Согласие" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/3%20согласие.jpg" width="300" align="center"><img alt="Стать самозанятым" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/4%20регистрация.jpg" width="300" align="right">
 
 <br />
-Выберите способ авторизации Через портал Госуслуг. Вы будете направлены на окно ввода логина и пароля для портала Госуслуг.
+Выберите способ авторизации Через портал Госуслуг. Вы будете направлены на окно ввода логина и пароля для портала Госуслуг. После авторизации на портале, вы вернетесь в приложение Мой Налог, и вам будет предложено установить пин-код для входа.
 <br />
 <br />
 
-<img alt="Способ авторизации" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/5%20авторизация.jpg" width="300" align="center"><img alt="Авторизуйтесь на портале Госуслуг" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/6%20авторизация%20чз%20госуслуги.jpg" width="300" align="right">
+<img alt="Способ авторизации" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/5%20авторизация.jpg" width="300" align="left"><img alt="Авторизуйтесь на портале Госуслуг" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/6%20авторизация%20чз%20госуслуги.jpg" width="300" align="center"><img alt="Пин-код" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/11%20пин-код.jpg" width="300" align="right">
+
 
 Ваше заявление на регистрацию в качестве плательщика НПД принято в работу. Срок обработки заявления до 5 рабочих дней. На практике — быстрее, от нескольких минут до нескольких часов.
+<br />
+<br />
+<img alt="Заявление принято" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/9%20заявление%20принято.jpg" width="300" align="left"><img alt="Заявление обработано" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/10%20заявление%20обработано.jpg" width="300" align="left">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ## Работа в приложении Мой Налог
 ### Как начать принимать платежи
 
-Перед тем как выставлять счёт, укажите, куда будете получать деньги:
-1. Откройте раздел «Прочее» (в правом нижнем углу) → «Платежи».
-2. В блоке «Получение средств» выберите «По расчётному счёту».
-3. Если планируете получать оплату на карту физлица, всё равно выберите «По расчётному счёту» и укажите данные лицевого счёта.
-4. Введите реквизиты (БИК и номер счёта) — их можно взять в приложении вашего банка.
-5. Нажмите «Сохранить».
+Перед тем как выставлять счёт, укажите, куда будете **получать деньги:**
+1. Откройте раздел **Прочее** (в правом нижнем углу) → **Платежи**.
+2. В блоке **Получение средств** выберите **По расчётному счёту**.
+3. Если планируете получать оплату на карту **физлица,** всё равно выберите **По расчётному счёту** и укажите данные **лицевого счёта физического лица.**
+4. Введите реквизиты — **БИК и номер счёта** — их можно взять в приложении вашего банка.
+5. Нажмите **Сохранить.**
+
+<img alt="Прочее - Платежи" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок1.jpg" width="300" align="left"><img alt="По расчетному счету" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок2.jpg" width="300" align="center"><img alt="Указать БИК банка и номер счета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок3.jpg" width="300" align="right">
+
 
 ### Как выставить счёт клиенту
-Далее необходимо сформировать счет на оплату. Для этого на главном экране внизу нажмите на оранжевую кнопку + Продажа. 
+1. На главном экране нажмите оранжевую кнопку **+ Продажа.**
+2. Укажите **название услуги** (например, монтаж печи Абат) и **стоимость.**
+3. Выберите, **кому выставляете счет** — Физическому лицу или Юридическому лицу или ИП.
+4. Если выбрали Юридическое лицо или ИП, введите **ИНН компании** и нажмите **Найти** — система подтянет название организации.
+5. Нажмите **Выдать счёт.**
 
+<img alt="Продажа" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок4.jpg" width="300" align="left"><img alt="Кому выставляем счет" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок5.jpg" width="300" align="center"><img alt="Введите ИНН юр лица" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок6.jpg" width="300" align="right">
 
+### Как отправить ссылку на счёт
 
-Укажите наименование услуги – к примеру, монтаж печи Абат. 
-Укажите согласованную стоимость услуги. 
-Нажмите на кнопку Юридическому лицу или ИП.
- 
+1. Перейдите в **Чеки/Счета** → **Счета** и откройте нужный счёт.
+2. Нажмите на **три точки** внизу посередине и выберите **Отправить ссылку на счёт.**
+3. Скопируйте ссылку и отправьте клиенту (например, в мессенджер или на почту).
 
-
-
-Укажите ИНН компании. 
-Нажмите кнопку Найти – название компании подтянется по ИНН. 
-После этого нажмите на кнопку Выдать счет. 
-Ссылку на счет направьте в штаб или бухгалтеру:
-
-
-Перейдите в раздел Чеки/Счета – Счета, зайдите в сформированный счет. 
-
-В счете нажмите на кнопку 3 точки внизу посередине и выберите Отправить ссылку на счет. Скопируйте ссылку и отправьте ее в штаб или бухгалтеру. 
+<img alt="Чеки/Счета - Счета" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок7.jpg" width="300" align="left"><img alt="Отправить ссылку на счет" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок8.jpg" width="300" align="center"><img alt="Скопировать ссылку" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок9.jpg" width="300" align="right">
 
 
 ### Как оформить чек после оплаты
  
-Дождитесь оплаты счета. После оплаты сформируйте чек и отправьте ссылку на чек в штаб или бухгалтеру: 
-Перейдите в раздел Чеки/Счета – Счета, зайдите в сформированный счет. 
-В счете нажмите на кнопку 3 точки внизу посередине и выберите Сформировать чек или Отметить оплаченным. Сформируется чек. 
-Открыть чек можно из раздела Чеки/Счета – Чеки. Зайдите в чек и нажмите кнопку Отправить. 
+Когда клиент оплатит счёт:
+1. Зайдите в «Чеки/Счета» → «Счета» и откройте оплаченный счёт.
+2. Нажмите на три точки и выберите «Сформировать чек» или «Отметить оплаченным». Чек создастся автоматически.
+3. Чтобы отправить чек, перейдите в «Чеки/Счета» → «Чеки», откройте чек и нажмите «Отправить».
+4. Выберите «Отправить ссылку на чек», скопируйте её и перешлите клиенту.
 
-
+<img alt="Сформировать чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок10.jpg" width="300" align="left"><img alt="Отправить ссылку на чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок11.jpg" width="300" align="center"><img alt="Отправить ссылку на чек" src="https://github.com/AnastasiaBochareva/AnastasiaBochareva/blob/moi-nalog/Case1/screen/Рисунок12.jpg" width="300" align="right">
 
 
 ### Как оплатить налог
